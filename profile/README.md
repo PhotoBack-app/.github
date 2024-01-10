@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Welcome to PhotoBack app!
+
+- ❔ [What is this?](https://github.com/PhotoBack-app/Phoneapp?tab=readme-ov-file#photobackapp)
+- ❓ [How to contribute?](https://github.com/orgs/PhotoBack-app/projects/1)
+
+
 <!--
 
 **Here are some ideas to get you started:**
